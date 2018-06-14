@@ -22,6 +22,10 @@ h1,h2,h3,h4,h5,h6
 
 }
 
+.navbar.navbar-expand-lg.fixed-top.scrolled {
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+}
 
 
 #particles-js
